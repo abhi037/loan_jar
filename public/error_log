@@ -1,0 +1,14 @@
+[16-May-2025 18:45:30 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:45:56 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:46:16 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:46:23 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:46:27 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:46:35 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:46:38 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:47:31 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:47:44 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:48:24 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 18:48:39 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[16-May-2025 19:03:09 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[17-May-2025 20:12:39 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Admin\Illuminate\Support\Facades\DB" not found in /home3/newsmm5o/loanjar.org/app/Http/Controllers/Admin/LoanController.php on line 20
+[17-May-2025 20:34:08 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/newsmm5o/loanjar.org/app/Models/User.php on line 29
